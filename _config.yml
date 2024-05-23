@@ -1,0 +1,11 @@
+title: Xianbang Feng's Personal Website
+email: xf258@exeter.ac.uk
+description: >- # This description will be used in search engine results
+  The personal website of Xianbang Feng.
+baseurl: "" # Leave this empty if deploying to GitHub Pages root
+url: "https://username.github.io" # Your GitHub Pages URL
+github_username: username
+
+# Theme settings
+theme: minima
+
